@@ -7,4 +7,4 @@ if [ -z `git branch | grep "* master"` ]; then
   exit 1
 fi
 
-git checkout gh-pages && git merge --ff-only master && git push origin gh-pages && git checkout master
+git checkout gh-pages && git merge master && git push origin gh-pages && git checkout master
