@@ -4,5 +4,7 @@ It is difficult to make prediction or understand the results of the severe weath
 
 A live demo can be found [here](http://nyu-cs6313-projects.github.io/Tornado-Hail/).
 
+The data files ( 1950-2014_torn.csv and 1950-2014_hail.csv) can be downloaded at [here](http://www.spc.noaa.gov/wcm/) and processed using "DataManipulation.m" Matlab file.
+
 You can use the `deploy.sh` script to keep the `gh-pages` branch up-to-date.
 When forking this project be sure to update the link to the demo page in this file.
