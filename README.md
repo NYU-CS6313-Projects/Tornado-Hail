@@ -14,4 +14,4 @@ The data files ( 1950-2014_torn.csv and 1950-2014_hail.csv) can be downloaded at
 Final proposal can be found in [here](http://nyu-cs6313-projects.github.io/Tornado-Hail/final_report_fu231.pdf).
 
 ###Video
-To be completed
+A video can be found in [here] (https://www.youtube.com/watch?v=PZEWk_ZHxqw).
