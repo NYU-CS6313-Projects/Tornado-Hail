@@ -5,13 +5,13 @@ It is difficult to make prediction or understand the results of the severe weath
 
 ###Live Demo
 
-A live demo can be found [here](http://nyu-cs6313-projects.github.io/Tornado-Hail/).
+A live demo can be found in [here](http://nyu-cs6313-projects.github.io/Tornado-Hail/).
 
 ###Raw Data
 The data files ( 1950-2014_torn.csv and 1950-2014_hail.csv) can be downloaded at [here](http://www.spc.noaa.gov/wcm/) and processed using "DataManipulation.m" Matlab file.
 
 ###Final Proposal
-To be completed
+Final proposal can be found in [here](http://nyu-cs6313-projects.github.io/Tornado-Hail/final_report_fu231.pdf).
 
 ###Video
 To be completed
